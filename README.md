@@ -1,3 +1,5 @@
+Demonstration of question answering and classification tasks using pretrained LMs.
+
 1. BERT's Question Answering model used for QA from Wikipedia text.
 2. ULMFiT (Universal Language Model Fine tuned for Classification) fine-tuned on a simple dataset and used for classification task.
 
