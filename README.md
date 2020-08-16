@@ -1,6 +1,6 @@
 Demonstration of question answering and classification tasks using pretrained LMs.
 
-1. BERT's Question Answering model used for QA from Wikipedia text.
-2. ULMFiT (Universal Language Model Fine tuned for Classification) fine-tuned on a simple dataset and used for classification task.
+1. Google BERT's Question Answering model used for QA on Wikipedia text (no fine-tuning).
+2. fast.ai's ULMFiT (Universal Language Model Fine tuned for Classification) further fine-tuned on a simple dataset and used for binary classification task.
 
-Both language models can be installed by Python wrappers found in code.
+Both language models are open for use.
